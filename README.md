@@ -18,7 +18,7 @@
 使用方式: 🟢 支持官方客户端 🟢支持第三方客户端
 
 套餐价格:
-<img width="1392" alt="image" src="" />
+<img width="1392" alt="image" src="https://github.com/w4x9c11/pianyijichang/blob/main/ScreenShot_2026-05-03_004550_016.png" />
 
 ---
 
